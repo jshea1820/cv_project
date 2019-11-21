@@ -4,25 +4,8 @@ sys.path.append("./models/research")
 sys.path.append("./models/research/object_detection")
 
 import numpy as np
-#import time
-#import os
-#import six.moves.urllib as urllib
-#import tarfile
 import tensorflow as tf
-#import zipfile
 import cv2
-
-#from distutils.version import StrictVersion
-#from collections import defaultdict
-#from io import StringIO
-#from matplotlib import pyplot as plt
-#from PIL import Image
-
-# This is needed for modules in tensorflow folder
-#from object_detection.utils import ops as utils_ops
-
-#if StrictVersion(tf.__version__) < StrictVersion('1.12.0'):
-#    raise ImportError('Please upgrade your TensorFlow installation to v1.12.*.')
 
 from utils import label_map_util
 from utils import visualization_utils as vis_util
