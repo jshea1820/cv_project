@@ -1,0 +1,28 @@
+item {
+    id: 1
+    name: 'ball'
+}
+item {
+    id: 2
+    name: 'cur_player'
+}
+item {
+    id: 3
+    name: 'daisy'
+}
+item {
+    id: 4
+    name: 'waluigi'
+}
+item {
+    id: 5
+    name: 'koopa'
+}
+item {
+    id: 6
+    name: 'toad'
+}
+item {
+    id: 7
+    name: 'kritter'
+}
